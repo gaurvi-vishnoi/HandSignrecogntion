@@ -32,7 +32,7 @@ Include a GIF or video demonstrating your project in action.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/hand-sign-detection.git
+   git clone https://github.com/gaurvi-vishnoi/HandSignrecogntion
 2. Install dependencies
    pip install -r requirements.txt
 ## Usage
